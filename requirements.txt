@@ -1,0 +1,3 @@
+pyxdf
+pylsl
+numpy
